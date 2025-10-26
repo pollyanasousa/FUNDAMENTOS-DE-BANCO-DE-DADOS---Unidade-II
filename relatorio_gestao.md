@@ -23,7 +23,7 @@ Este relatório apresenta a modelagem adotada, os principais comandos utilizados
 
 ## 🖼️ Diagrama Entidade-Relacionamento (DER)
 
-[🔗 Clique aqui para visualizar o DER](BD/img/der.png)  
+[🔗 Clique aqui para visualizar o DER](img/der.png)  
 *Figura: Diagrama do modelo relacional utilizado no sistema.*
 
 ---
@@ -32,16 +32,16 @@ Este relatório apresenta a modelagem adotada, os principais comandos utilizados
 
 Abaixo estão os links para visualização das principais consultas realizadas no sistema:
 
-- [Consulta 1 – Total por pedido com nome do cliente e data](BD/img/consulta1.png)
-- [Consulta 2 – Produtos mais vendidos](BD/img/consulta2.png)
-- [Consulta 3 – Clientes que mais gastaram](BD/img/consulta3.png)
-- [Consulta 4 – Total de pedidos por cidade](BD/img/consulta4.png)
-- [Consulta 5 – Produtos por categoria](BD/img/consulta5.png)
-- [Consulta 6 – Pagamentos aprovados](BD/img/consulta6.png)
-- [Consulta 7 – Pedidos por método de pagamento](BD/img/consulta7.png)
-- [Consulta 8 – Produtos não vendidos](BD/img/consulta8.png)
-- [Consulta 9 – Top 2 clientes por valor total gasto](BD/img/consulta9.png)
-- [Consulta 10 – Valor médio dos pedidos](BD/img/consulta10.png)
+- [Consulta 1 – Total por pedido com nome do cliente e data](img/consulta1.png)
+- [Consulta 2 – Produtos mais vendidos](img/consulta2.png)
+- [Consulta 3 – Clientes que mais gastaram](img/consulta3.png)
+- [Consulta 4 – Total de pedidos por cidade](img/consulta4.png)
+- [Consulta 5 – Produtos por categoria](img/consulta5.png)
+- [Consulta 6 – Pagamentos aprovados](img/consulta6.png)
+- [Consulta 7 – Pedidos por método de pagamento](img/consulta7.png)
+- [Consulta 8 – Produtos não vendidos](img/consulta8.png)
+- [Consulta 9 – Top 2 clientes por valor total gasto](img/consulta9.png)
+- [Consulta 10 – Valor médio dos pedidos](img/consulta10.png)
 
 *Cada link abre o print correspondente em uma nova aba.*
 
