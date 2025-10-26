@@ -23,7 +23,7 @@ Este relatório apresenta a modelagem adotada, os principais comandos utilizados
 
 ## 🖼️ Diagrama Entidade-Relacionamento (DER)
 
-[Clique aqui para visualizar o DER](img/EDR-Ecommerce.png)  
+[🔗 Clique aqui para visualizar o DER](img/der.png?raw=true)  
 *Figura: Diagrama do modelo relacional utilizado no sistema.*
 
 ---
